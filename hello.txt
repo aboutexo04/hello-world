@@ -6,4 +6,19 @@ hello hello hello
 
 
 
+<<<<<<< HEAD
 hihihihi
+=======
+
+aaaaaaaaaaaaaaa
+
+
+dddddddddddddddddd
+
+
+
+
+
+
+
+>>>>> 1676b0f (hello.txt modified)
