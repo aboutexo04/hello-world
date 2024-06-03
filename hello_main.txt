@@ -1,19 +1,6 @@
 Additional hello txt file
 
-
-
-hello hello hello
-
-
-
-<<<<<<< HEAD
-hihihihi
-=======
-
-aaaaaaaaaaaaaaa
-
-
-dddddddddddddddddd
+aaaaaaaaaa
 
 
 
@@ -21,4 +8,5 @@ dddddddddddddddddd
 
 
 
->>>>> 1676b0f (hello.txt modified)
+
+
